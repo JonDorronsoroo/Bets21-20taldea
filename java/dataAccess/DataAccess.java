@@ -1,6 +1,5 @@
 package dataAccess;
 
-import java.util.ArrayList;
 //hello
 import java.util.Calendar;
 import java.util.Date;
@@ -20,7 +19,6 @@ import configuration.ConfigXML;
 import configuration.UtilDate;
 import domain.Event;
 import domain.Question;
-import domain.Quote;
 import domain.User;
 import exceptions.QuestionAlreadyExist;
 
@@ -202,33 +200,27 @@ public class DataAccess {
 	public String canRegister(String userName, String email, String pass, String confpass, int age) {
 		db.getTransaction().begin();
 		User u = db.find(User.class, userName);
-		String emaitza = "Ondo";
+		String emaitza = "ondo";
 		if (u == null) {
-			TypedQuery<User> e = db.createQuery("SELECT u FROM User u WHERE u.getEmail()=?1", User.class);
-			e.setParameter(1, email);
-			List<User> list = e.getResultList();
-			if (!list.isEmpty()) {
-				emaitza = "Error email";
-				if (!pass.equals(confpass)) {
-					emaitza = "Error pass";
-					if (age < 18) {
+			User e = db.find(User.class, email);
+			if (e == null) {
+				if (pass.equals(confpass)) {
+					if (age >= 18) {
+
+					} else {
 						emaitza = "Error age";
 					}
+				} else {
+					emaitza = "Error pass";
 				}
+			} else {
+				emaitza = "Error email";
 			}
 		} else {
 			emaitza = "Error userName";
 		}
-
 		db.getTransaction().commit();
 		return emaitza;
-	}
-
-	public void storeUser(User u) {
-		db.getTransaction().begin();
-		db.persist(u);
-		db.getTransaction().commit();
-		System.out.println("Gordeta " + u);
 	}
 
 	/**
@@ -307,46 +299,6 @@ public class DataAccess {
 		System.out.println(">> DataAccess: existQuestion=> event= " + event + " question= " + question);
 		Event ev = db.find(Event.class, event.getEventNumber());
 		return ev.DoesQuestionExists(question);
-
-	}
-
-	public void createEvent(int eventNumber, String desc, Date eventDate) {
-		db.getTransaction().begin();
-		boolean aurkitua = false;
-		TypedQuery<Event> query = db.createQuery("SELECT e FROM Event e WHERE e.getDescription()=?1", Event.class);
-		query.setParameter(1, desc);
-		List<Event> Events = query.getResultList();
-		if (Events.isEmpty()) {
-			Event sartukoDuguna = new Event(eventNumber, desc, eventDate);
-			db.persist(sartukoDuguna);
-		}
-		db.getTransaction().commit();
-
-	}
-
-	public void createQuote(int quoteNumber, String forecast, Double quote, Question question) {
-		db.getTransaction().begin();
-		Question q = db.find(Question.class, question);
-		if (q != null) {
-			Quote gehitukoDena = new Quote(quoteNumber, quote, forecast);
-			q.gehituKuota(gehitukoDena);
-
-		}
-		db.merge(q);
-		db.getTransaction().commit();
-
-	}
-
-	public Vector<Question> getEventQuestion(Event event) {
-		Vector<Question> res = new Vector<Question>();
-		TypedQuery<Question> query = db.createQuery("SELECT ev FROM Question ev WHERE ev.event=?1", Question.class);
-		query.setParameter(1, event);
-		List<Question> galderak = query.getResultList();
-		for (Question q : galderak) {
-			System.out.println(q.toString());
-			res.add(q);
-		}
-		return res;
 
 	}
 

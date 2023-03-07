@@ -1,0 +1,821 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 11:17:04 #1 store] 
+Database 'C:\Users\jondo\Desktop\Bets21-20taldea\src\main\resources\bets.temp' is opened by 8980@DESKTOP-LBHEF7H
+
+[2023-03-04 11:17:05 #2 type.registry] 
+New type domain.Question
+
+[2023-03-04 11:17:05 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 11:17:05 #4 type.registry] 
+New type domain.Event
+
+[2023-03-04 11:17:05 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 11:17:05 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-04 11:17:05 #7 type.registry] 
+New type domain.User
+
+[2023-03-04 11:17:05 #8 type] 
+Type domain.User is not enhanced.
+
+[2023-03-04 11:17:05 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 11:21:17 #1 store] 
+Database 'C:\Users\jondo\Desktop\Bets21-20taldea\src\main\resources\bets.temp' is opened by 232@DESKTOP-LBHEF7H
+
+[2023-03-04 11:21:17 #2 type.registry] 
+New type domain.Question
+
+[2023-03-04 11:21:17 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 11:21:17 #4 type.registry] 
+New type domain.Event
+
+[2023-03-04 11:21:17 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 11:21:17 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-04 11:21:17 #7 type.registry] 
+New type domain.User
+
+[2023-03-04 11:21:17 #8 type] 
+Type domain.User is not enhanced.
+
+[2023-03-04 11:21:17 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 11:21:38 #1 store] 
+Database 'C:\Users\jondo\Desktop\Bets21-20taldea\src\main\resources\bets.temp' is opened by 9368@DESKTOP-LBHEF7H
+
+[2023-03-04 11:21:38 #2 type.registry] 
+New type domain.Question
+
+[2023-03-04 11:21:38 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 11:21:38 #4 type.registry] 
+New type domain.Event
+
+[2023-03-04 11:21:38 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 11:21:38 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-04 11:21:38 #7 type.registry] 
+New type domain.User
+
+[2023-03-04 11:21:38 #8 type] 
+Type domain.User is not enhanced.
+
+[2023-03-04 11:21:38 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 11:24:07 #1 store] 
+Database 'C:\Users\jondo\Desktop\Bets21-20taldea\src\main\resources\bets.temp' is opened by 11620@DESKTOP-LBHEF7H
+
+[2023-03-04 11:24:07 #2 type.registry] 
+New type domain.Question
+
+[2023-03-04 11:24:07 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 11:24:07 #4 type.registry] 
+New type domain.Event
+
+[2023-03-04 11:24:07 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 11:24:07 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-04 11:24:07 #7 type.registry] 
+New type domain.User
+
+[2023-03-04 11:24:07 #8 type] 
+Type domain.User is not enhanced.
+
+[2023-03-04 11:24:07 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 11:26:27 #1 store] 
+Database 'C:\Users\jondo\Desktop\Bets21-20taldea\src\main\resources\bets.temp' is opened by 16188@DESKTOP-LBHEF7H
+
+[2023-03-04 11:26:27 #2 type.registry] 
+New type domain.Question
+
+[2023-03-04 11:26:27 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 11:26:27 #4 type.registry] 
+New type domain.Event
+
+[2023-03-04 11:26:27 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 11:26:27 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-04 11:26:27 #7 type.registry] 
+New type domain.User
+
+[2023-03-04 11:26:27 #8 type] 
+Type domain.User is not enhanced.
+
+[2023-03-04 11:26:27 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 11:30:02 #1 store] 
+Database 'C:\Users\jondo\Desktop\Bets21-20taldea\src\main\resources\bets.temp' is opened by 5644@DESKTOP-LBHEF7H
+
+[2023-03-04 11:30:02 #2 type.registry] 
+New type domain.Question
+
+[2023-03-04 11:30:02 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 11:30:02 #4 type.registry] 
+New type domain.Event
+
+[2023-03-04 11:30:02 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 11:30:02 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-04 11:30:02 #7 type.registry] 
+New type domain.User
+
+[2023-03-04 11:30:02 #8 type] 
+Type domain.User is not enhanced.
+
+[2023-03-04 11:30:02 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 11:40:39 #1 store] 
+Database 'C:\Users\jondo\Desktop\Bets21-20taldea\src\main\resources\bets.temp' is opened by 404@DESKTOP-LBHEF7H
+
+[2023-03-04 11:40:39 #2 type.registry] 
+New type domain.Question
+
+[2023-03-04 11:40:39 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 11:40:39 #4 type.registry] 
+New type domain.Event
+
+[2023-03-04 11:40:39 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 11:40:39 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-04 11:40:39 #7 type.registry] 
+New type domain.User
+
+[2023-03-04 11:40:39 #8 type] 
+Type domain.User is not enhanced.
+
+[2023-03-04 11:40:39 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 11:42:29 #1 store] 
+Database 'C:\Users\jondo\Desktop\Bets21-20taldea\src\main\resources\bets.temp' is opened by 3616@DESKTOP-LBHEF7H
+
+[2023-03-04 11:42:29 #2 type.registry] 
+New type domain.Question
+
+[2023-03-04 11:42:29 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 11:42:29 #4 type.registry] 
+New type domain.Event
+
+[2023-03-04 11:42:29 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 11:42:29 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-04 11:42:29 #7 type.registry] 
+New type domain.User
+
+[2023-03-04 11:42:29 #8 type] 
+Type domain.User is not enhanced.
+
+[2023-03-04 11:42:29 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 11:46:24 #1 store] 
+Database 'C:\Users\jondo\Desktop\Bets21-20taldea\src\main\resources\bets.temp' is opened by 11408@DESKTOP-LBHEF7H
+
+[2023-03-04 11:46:24 #2 type.registry] 
+New type domain.Question
+
+[2023-03-04 11:46:24 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 11:46:24 #4 type.registry] 
+New type domain.Event
+
+[2023-03-04 11:46:24 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 11:46:24 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-04 11:46:24 #7 type.registry] 
+New type domain.User
+
+[2023-03-04 11:46:24 #8 type] 
+Type domain.User is not enhanced.
+
+[2023-03-04 11:46:24 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 11:48:17 #1 store] 
+Database 'C:\Users\jondo\Desktop\Bets21-20taldea\src\main\resources\bets.temp' is opened by 9484@DESKTOP-LBHEF7H
+
+[2023-03-04 11:48:17 #2 type.registry] 
+New type domain.Question
+
+[2023-03-04 11:48:17 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 11:48:17 #4 type.registry] 
+New type domain.Event
+
+[2023-03-04 11:48:17 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 11:48:17 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-04 11:48:17 #7 type.registry] 
+New type domain.User
+
+[2023-03-04 11:48:17 #8 type] 
+Type domain.User is not enhanced.
+
+[2023-03-04 11:48:17 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 11:51:14 #1 store] 
+Database 'C:\Users\jondo\Desktop\Bets21-20taldea\src\main\resources\bets.temp' is opened by 11072@DESKTOP-LBHEF7H
+
+[2023-03-04 11:51:14 #2 type.registry] 
+New type domain.Question
+
+[2023-03-04 11:51:14 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 11:51:14 #4 type.registry] 
+New type domain.Event
+
+[2023-03-04 11:51:14 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 11:51:14 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-04 11:51:14 #7 type.registry] 
+New type domain.User
+
+[2023-03-04 11:51:14 #8 type] 
+Type domain.User is not enhanced.
+
+[2023-03-04 11:51:14 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 11:52:24 #1 store] 
+Database 'C:\Users\jondo\Desktop\Bets21-20taldea\src\main\resources\bets.temp' is opened by 11856@DESKTOP-LBHEF7H
+
+[2023-03-04 11:52:24 #2 type.registry] 
+New type domain.Question
+
+[2023-03-04 11:52:24 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 11:52:24 #4 type.registry] 
+New type domain.Event
+
+[2023-03-04 11:52:24 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 11:52:24 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-04 11:52:24 #7 type.registry] 
+New type domain.User
+
+[2023-03-04 11:52:24 #8 type] 
+Type domain.User is not enhanced.
+
+[2023-03-04 11:52:24 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 11:53:10 #1 store] 
+Database 'C:\Users\jondo\Desktop\Bets21-20taldea\src\main\resources\bets.temp' is opened by 1284@DESKTOP-LBHEF7H
+
+[2023-03-04 11:53:11 #2 type.registry] 
+New type domain.Question
+
+[2023-03-04 11:53:11 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 11:53:11 #4 type.registry] 
+New type domain.Event
+
+[2023-03-04 11:53:11 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 11:53:11 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-04 11:53:11 #7 type.registry] 
+New type domain.User
+
+[2023-03-04 11:53:11 #8 type] 
+Type domain.User is not enhanced.
+
+[2023-03-04 11:53:11 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 11:58:44 #1 store] 
+Database 'C:\Users\jondo\Desktop\Bets21-20taldea\src\main\resources\bets.temp' is opened by 5704@DESKTOP-LBHEF7H
+
+[2023-03-04 11:58:44 #2 type.registry] 
+New type domain.Question
+
+[2023-03-04 11:58:44 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 11:58:44 #4 type.registry] 
+New type domain.Event
+
+[2023-03-04 11:58:44 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 11:58:44 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-04 11:58:44 #7 type.registry] 
+New type domain.User
+
+[2023-03-04 11:58:44 #8 type] 
+Type domain.User is not enhanced.
+
+[2023-03-04 11:58:44 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 11:58:53 #1 store] 
+Database 'C:\Users\jondo\Desktop\Bets21-20taldea\src\main\resources\bets.temp' is opened by 6172@DESKTOP-LBHEF7H
+
+[2023-03-04 11:58:53 #2 type.registry] 
+New type domain.Question
+
+[2023-03-04 11:58:53 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 11:58:53 #4 type.registry] 
+New type domain.Event
+
+[2023-03-04 11:58:53 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 11:58:53 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-04 11:58:53 #7 type.registry] 
+New type domain.User
+
+[2023-03-04 11:58:53 #8 type] 
+Type domain.User is not enhanced.
+
+[2023-03-04 11:58:53 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 12:03:07 #1 store] 
+Database 'C:\Users\jondo\Desktop\Bets21-20taldea\src\main\resources\bets.temp' is opened by 17336@DESKTOP-LBHEF7H
+
+[2023-03-04 12:03:07 #2 type.registry] 
+New type domain.Question
+
+[2023-03-04 12:03:07 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 12:03:07 #4 type.registry] 
+New type domain.Event
+
+[2023-03-04 12:03:07 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 12:03:07 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-04 12:03:07 #7 type.registry] 
+New type domain.User
+
+[2023-03-04 12:03:07 #8 type] 
+Type domain.User is not enhanced.
+
+[2023-03-04 12:03:07 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 12:04:24 #1 store] 
+Database 'C:\Users\jondo\Desktop\Bets21-20taldea\src\main\resources\bets.temp' is opened by 12724@DESKTOP-LBHEF7H
+
+[2023-03-04 12:04:24 #2 type.registry] 
+New type domain.Question
+
+[2023-03-04 12:04:24 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 12:04:24 #4 type.registry] 
+New type domain.Event
+
+[2023-03-04 12:04:24 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 12:04:24 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-04 12:04:24 #7 type.registry] 
+New type domain.User
+
+[2023-03-04 12:04:24 #8 type] 
+Type domain.User is not enhanced.
+
+[2023-03-04 12:04:24 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 12:06:45 #1 store] 
+Database 'C:\Users\jondo\Desktop\Bets21-20taldea\src\main\resources\bets.temp' is opened by 4052@DESKTOP-LBHEF7H
+
+[2023-03-04 12:06:45 #2 type.registry] 
+New type domain.Question
+
+[2023-03-04 12:06:45 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 12:06:45 #4 type.registry] 
+New type domain.Event
+
+[2023-03-04 12:06:45 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 12:06:45 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-04 12:06:45 #7 type.registry] 
+New type domain.User
+
+[2023-03-04 12:06:45 #8 type] 
+Type domain.User is not enhanced.
+
+[2023-03-04 12:06:45 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 12:08:08 #1 store] 
+Database 'C:\Users\jondo\Desktop\Bets21-20taldea\src\main\resources\bets.temp' is opened by 12048@DESKTOP-LBHEF7H
+
+[2023-03-04 12:08:08 #2 type.registry] 
+New type domain.Question
+
+[2023-03-04 12:08:08 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 12:08:08 #4 type.registry] 
+New type domain.Event
+
+[2023-03-04 12:08:08 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 12:08:08 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-04 12:08:08 #7 type.registry] 
+New type domain.User
+
+[2023-03-04 12:08:08 #8 type] 
+Type domain.User is not enhanced.
+
+[2023-03-04 12:08:08 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 12:10:54 #1 store] 
+Database 'C:\Users\jondo\Desktop\Bets21-20taldea\src\main\resources\bets.temp' is opened by 3180@DESKTOP-LBHEF7H
+
+[2023-03-04 12:10:54 #2 type.registry] 
+New type domain.Question
+
+[2023-03-04 12:10:54 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 12:10:54 #4 type.registry] 
+New type domain.Event
+
+[2023-03-04 12:10:54 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 12:10:54 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-04 12:10:54 #7 type.registry] 
+New type domain.User
+
+[2023-03-04 12:10:54 #8 type] 
+Type domain.User is not enhanced.
+
+[2023-03-04 12:10:54 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 12:12:53 #1 store] 
+Database 'C:\Users\jondo\Desktop\Bets21-20taldea\src\main\resources\bets.temp' is opened by 9484@DESKTOP-LBHEF7H
+
+[2023-03-04 12:12:53 #2 type.registry] 
+New type domain.Question
+
+[2023-03-04 12:12:53 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 12:12:53 #4 type.registry] 
+New type domain.Event
+
+[2023-03-04 12:12:53 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 12:12:53 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-04 12:12:53 #7 type.registry] 
+New type domain.User
+
+[2023-03-04 12:12:53 #8 type] 
+Type domain.User is not enhanced.
+
+[2023-03-04 12:12:53 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 12:17:50 #1 store] 
+Database 'C:\Users\jondo\Desktop\Bets21-20taldea\src\main\resources\bets.temp' is opened by 4520@DESKTOP-LBHEF7H
+
+[2023-03-04 12:17:50 #2 type.registry] 
+New type domain.Question
+
+[2023-03-04 12:17:50 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 12:17:50 #4 type.registry] 
+New type domain.Event
+
+[2023-03-04 12:17:50 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 12:17:50 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-04 12:17:50 #7 type.registry] 
+New type domain.User
+
+[2023-03-04 12:17:50 #8 type] 
+Type domain.User is not enhanced.
+
+[2023-03-04 12:17:50 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 12:17:56 #1 store] 
+Database 'C:\Users\jondo\Desktop\Bets21-20taldea\src\main\resources\bets.temp' is opened by 10296@DESKTOP-LBHEF7H
+
+[2023-03-04 12:17:56 #2 type.registry] 
+New type domain.Question
+
+[2023-03-04 12:17:56 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 12:17:56 #4 type.registry] 
+New type domain.Event
+
+[2023-03-04 12:17:56 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 12:17:56 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-03-04 12:17:56 #7 type.registry] 
+New type domain.User
+
+[2023-03-04 12:17:56 #8 type] 
+Type domain.User is not enhanced.
+
+[2023-03-04 12:17:56 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 12:21:56 #1 store] 
+Database 'C:\Users\jondo\Desktop\Bets21-20taldea\src\main\resources\bets.temp' is opened by 4484@DESKTOP-LBHEF7H
+
+[2023-03-04 12:21:56 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 12:21:56 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 12:21:56 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 12:24:39 #1 store] 
+Database 'C:\Users\jondo\Desktop\Bets21-20taldea\src\main\resources\bets.temp' is opened by 9244@DESKTOP-LBHEF7H
+
+[2023-03-04 12:24:39 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 12:24:39 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 12:24:39 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 12:25:40 #1 store] 
+Database 'C:\Users\jondo\Desktop\Bets21-20taldea\src\main\resources\bets.temp' is opened by 10104@DESKTOP-LBHEF7H
+
+[2023-03-04 12:25:40 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 12:25:40 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 12:25:40 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 12:27:02 #1 store] 
+Database 'C:\Users\jondo\Desktop\Bets21-20taldea\src\main\resources\bets.temp' is opened by 16856@DESKTOP-LBHEF7H
+
+[2023-03-04 12:27:03 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 12:27:03 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 12:27:03 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 12:27:09 #1 store] 
+Database 'C:\Users\jondo\Desktop\Bets21-20taldea\src\main\resources\bets.temp' is opened by 10540@DESKTOP-LBHEF7H
+
+[2023-03-04 12:27:09 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 12:27:09 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 12:27:09 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 12:28:02 #1 store] 
+Database 'C:\Users\jondo\Desktop\Bets21-20taldea\src\main\resources\bets.temp' is opened by 7208@DESKTOP-LBHEF7H
+
+[2023-03-04 12:28:02 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 12:28:02 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 12:28:02 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 12:28:32 #1 store] 
+Database 'C:\Users\jondo\Desktop\Bets21-20taldea\src\main\resources\bets.temp' is opened by 11132@DESKTOP-LBHEF7H
+
+[2023-03-04 12:28:33 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 12:28:33 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 12:28:33 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 12:30:07 #1 store] 
+Database 'C:\Users\jondo\Desktop\Bets21-20taldea\src\main\resources\bets.temp' is opened by 9696@DESKTOP-LBHEF7H
+
+[2023-03-04 12:30:07 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 12:30:07 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 12:30:07 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 12:31:36 #1 store] 
+Database 'C:\Users\jondo\Desktop\Bets21-20taldea\src\main\resources\bets.temp' is opened by 13116@DESKTOP-LBHEF7H
+
+[2023-03-04 12:31:37 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 12:31:37 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 12:31:37 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 15:09:34 #1 store] 
+Database 'C:\Users\jondo\Desktop\Bets21-20taldea\src\main\resources\bets.temp' is opened by 18788@DESKTOP-LBHEF7H
+
+[2023-03-04 15:09:34 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 15:09:34 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 15:09:34 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-03-04 15:26:29 #1 store] 
+Database 'C:\Users\jondo\Desktop\Bets21-20taldea\src\main\resources\bets.temp' is opened by 15688@DESKTOP-LBHEF7H
+
+[2023-03-04 15:26:29 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-03-04 15:26:29 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-03-04 15:26:29 #4 type] 
+Type domain.User is not enhanced.
+

@@ -1,6 +1,5 @@
 package businessLogic;
 
-import java.util.ArrayList;
 //hola
 import java.util.Date;
 import java.util.ResourceBundle;
@@ -102,16 +101,6 @@ public class BLFacadeImplementation implements BLFacade {
 	 * @param date of the month for which days with events want to be retrieved
 	 * @return collection of dates
 	 */
-
-	@WebMethod
-	public Vector<Question> getEventQuestion(Event event) {
-		// TODO Auto-generated method stub
-		dbManager.open(false);
-		Vector<Question> galderak = dbManager.getEventQuestion(event);
-		dbManager.close();
-		return galderak;
-	}
-
 	@WebMethod
 	public Vector<Date> getEventsMonth(Date date) {
 		dbManager.open(false);
@@ -132,31 +121,9 @@ public class BLFacadeImplementation implements BLFacade {
 	public String canRegister(String userName, String email, String pass, String confpass, int age) {
 		// TODO Auto-generated method stub
 		dbManager.open(false);
-		String emaitza = dbManager.canRegister(userName, email, pass, confpass, age);
+		String emaitza= dbManager.canRegister(userName, email, pass, confpass, age);
 		dbManager.close();
 		return emaitza;
-	}
-
-	@WebMethod
-	public void storeUser(User u) {
-		dbManager.open(false);
-		dbManager.storeUser(u);
-		dbManager.close();
-	}
-
-	@WebMethod
-	public void createEvent(int eventNumber, String desc, Date eventDate) {
-		dbManager.open(false);
-		dbManager.createEvent(eventNumber, desc, eventDate);
-		dbManager.close();
-	}
-
-	@WebMethod
-	public void createQuote(int quoteNumber, String forecast, Double quote, Question question) {
-		dbManager.open(false);
-		dbManager.createQuote(quoteNumber, forecast, quote, question);
-		dbManager.close();
-
 	}
 
 	public void close() {
@@ -177,5 +144,6 @@ public class BLFacadeImplementation implements BLFacade {
 		dbManager.initializeDB();
 		dbManager.close();
 	}
+
 
 }
